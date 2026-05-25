@@ -1,0 +1,14 @@
+{
+  "name": "freecad-mcp-universal-installer",
+  "version": "1.0.0",
+  "description": "An interactive, cross-platform Node.js CLI tool to automate FreeCAD-MCP addon installation and easily configure environment settings for Gemini, Claude Desktop/Code, Goose, and Aider CLI.",
+  "main": "fui.js",
+  "scripts": {
+    "start": "node fui.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["FreeCAD-MCP"],
+  "author": "cmalf",
+  "license": "MIT",
+  "type": "commonjs"
+}
